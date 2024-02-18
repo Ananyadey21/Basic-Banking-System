@@ -1,6 +1,7 @@
 # Basic-Banking-System
 Hi, myself Ananya Dey
-The Sparks Foundation Internship Project : Basic Banking System
+
+-The Sparks Foundation Internship Project : Basic Banking System
 
 Steps to run the peoject: 
 1) Download the zip file -> Extract it and save it after create a new file
