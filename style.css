@@ -1,0 +1,42 @@
+body{
+    font-family: Poppins;
+    margin: 0;
+  
+   
+}
+
+header{
+
+    /* background-color: red; */
+    background-image: url('./images/money.jpg');
+    width: 100%;
+    height: 90vh;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.sect{
+    padding:50px;
+}
+.waves-effect{
+    margin-top: 30px;
+}
+.head{
+    top:0;
+    padding: 0.5px;
+    font-family: Alegreya Sans SC;
+    background: rgb(240, 134, 134);
+}
+.footer{
+    background: rgb(212, 219, 108);
+    margin-bottom: 0;
+    bottom: 0;
+    padding: 10px;
+}
+.footer a:hover{
+
+    color: rgb(31, 101, 231);
+}
+.info{
+    font-weight: 500;
+}
+
